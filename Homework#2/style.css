@@ -1,0 +1,40 @@
+body {
+   margin: 0 auto;
+   width: 900px;
+   text-align: justify;
+   font-family: 'PT Sans', sans-serif;
+   background-color: rgb(250, 248, 244);
+}
+
+.danceimg1 {
+   width: 430px;
+   display: inline-block;
+   margin-right: 15px;
+}
+
+.danceimg2 {
+   width: 430px;
+   display: inline-block;
+   margin-left: 15px;
+}
+
+h2,h3 {
+   text-align: center;
+}
+
+ul li {
+   display: inline-block;
+   margin-right: 30px;
+   text-align: center;
+   font-weight: bold;
+   list-style-type: disc;
+}
+
+ol li {
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+iframe {
+   border: 0px;
+}
